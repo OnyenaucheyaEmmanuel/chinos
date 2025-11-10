@@ -1,0 +1,8 @@
+
+<svg width="320" height="190" xmlns="http://www.w3.org/2000/svg">
+  <rect width="320" height="190" rx="24" fill="#FFFFFF"/>
+  <rect x="36" y="40" width="150" height="10" rx="5" fill="#E5E7EB"/>
+  <rect x="36" y="60" width="120" height="8" rx="4" fill="#E5E7EB"/>
+  <circle cx="240" cy="116" r="26" fill="#EFF6FF"/>
+  <text x="232" y="122" font-size="14" font-family="system-ui" fill="#0052CC">$</text>
+</svg>

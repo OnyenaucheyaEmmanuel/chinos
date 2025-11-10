@@ -1,0 +1,8 @@
+
+<svg width="260" height="90" xmlns="http://www.w3.org/2000/svg">
+  <rect width="260" height="90" rx="18" fill="#F4F6FF"/>
+  <circle cx="72" cy="46" r="16" fill="#FFFFFF"/>
+  <text x="66" y="51" font-size="11" font-family="system-ui" fill="#0052CC">$</text>
+  <circle cx="112" cy="46" r="12" fill="#FFFFFF"/>
+  <text x="107" y="50" font-size="9" font-family="system-ui" fill="#F59E0B">€</text>
+</svg>

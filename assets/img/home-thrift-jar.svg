@@ -1,0 +1,8 @@
+
+<svg width="180" height="160" xmlns="http://www.w3.org/2000/svg">
+  <rect width="180" height="160" rx="24" fill="#FFFFFF"/>
+  <rect x="64" y="22" width="52" height="10" rx="5" fill="#9CA3AF"/>
+  <rect x="54" y="32" width="72" height="92" rx="22" fill="#E5F2FF"/>
+  <rect x="64" y="78" width="52" height="32" rx="10" fill="#60A5FA"/>
+  <text x="77" y="97" font-size="14" font-family="system-ui" fill="#FFFFFF">&#8358;</text>
+</svg>

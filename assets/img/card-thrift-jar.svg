@@ -1,0 +1,7 @@
+
+<svg width="260" height="90" xmlns="http://www.w3.org/2000/svg">
+  <rect width="260" height="90" rx="18" fill="#F4F6FF"/>
+  <rect x="156" y="24" width="40" height="8" rx="4" fill="#9CA3AF"/>
+  <rect x="148" y="32" width="56" height="40" rx="12" fill="#BFDBFE"/>
+  <text x="168" y="58" font-size="12" font-family="system-ui" fill="#1D4ED8">&#8358;</text>
+</svg>
